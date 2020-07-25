@@ -24,7 +24,7 @@ public class Users {
     private Date birthDate;
     private Date hireDate;
     private SimpleDateFormat sdfGet = new SimpleDateFormat("yyyy-MMM-dd");
-    private SimpleDateFormat sdfSet = new SimpleDateFormat("yyyy-MM-dd");
+    private SimpleDateFormat sdfSet = new SimpleDateFormat("yyyy-MMM-dd");
 
     public Users() {
     }
